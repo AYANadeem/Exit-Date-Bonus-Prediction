@@ -1,0 +1,288 @@
+Job Title,Department,Business Unit,Gender,Ethnicity,Age,Hire Date,Annual Salary,Bonus %,City,Exit Date,CurrentTenure_days,City_encoded,Predicted_Tenure,Actual_Tenure,Predicted_Exit_Date
+Sr. Manger,IT,Research & Development,Female,Black,55.0,2016-04-08,141604.0,0.15,Seattle,2021-10-16,,41.4206151813319,1511.0109,2017.0,2020-05-28
+Technical Architect,IT,Manufacturing,Male,Asian,59.0,1997-11-29,99975.0,0.0,Chongqing,,10158.0,40.53875461533017,1443.1848,,2001-11-11
+Computer Systems Manager,IT,Manufacturing,Female,Caucasian,26.0,2019-09-27,84913.0,0.07,Chicago,,2186.0,39.7211457387391,1416.3662,,2023-08-13
+Manager,IT,Corporate,Female,Caucasian,27.0,2020-07-01,119746.0,0.1,Phoenix,,1908.0,40.986922562096446,1621.5128,,2024-12-08
+Unknown,IT,Corporate,Male,Caucasian,64.0,2013-11-03,186503.0,0.2,Columbus,,4340.0,40.986922562096446,1968.6599,,2019-03-25
+Sr. Manger,IT,Manufacturing,Male,Latino,56.0,2012-01-09,146140.0,0.1,Manaus,,5004.0,40.986922562096446,2103.3372,,2017-10-12
+Director,IT,Research & Development,Male,Latino,59.0,2002-05-24,172787.0,0.2,Rio de Janerio,,8521.0,40.986922562096446,1692.504,,2007-01-10
+Vice President,IT,Corporate,Male,Asian,63.0,2012-05-11,197699.43,0.2,Beijing,,4881.0,40.986922562096446,1905.2036,,2017-07-29
+IT Coordinator,IT,Research & Development,Male,Asian,28.0,2017-06-25,54775.0,0.0,Columbus,,3010.0,40.986922562096446,1883.7014,,2022-08-21
+Enterprise Architect,IT,Manufacturing,Female,Caucasian,32.0,2014-02-11,99575.0,0.0,Austin,,4240.0,40.986922562096446,1723.7944,,2018-10-31
+Technical Architect,IT,Manufacturing,Female,Latino,35.0,2013-05-15,78940.0,0.0,Miami,,4512.0,40.986922562096446,1497.694,,2017-06-20
+Enterprise Architect,IT,Corporate,Female,Latino,57.0,1994-01-03,82872.0,0.0,Manaus,,11584.0,40.986922562096446,1686.5372,,1998-08-16
+Vice President,IT,Speciality Products,Male,Caucasian,52.0,2005-11-08,197699.43,0.2,Seattle,,7257.0,41.4206151813319,1799.4376,,2010-10-12
+Enterprise Architect,IT,Research & Development,Male,Caucasian,43.475,2010-11-04,92952.0,0.0,Seattle,,5435.0,41.4206151813319,1683.1117,,2015-06-14
+Computer Systems Manager,IT,Corporate,Male,Latino,32.0,2013-03-20,79921.0,0.05,Austin,,4568.0,40.986922562096446,1445.6425,,2017-03-04
+Computer Systems Manager,IT,Corporate,Male,Latino,32.0,2013-03-20,79921.0,0.05,Austin,,4568.0,40.986922562096446,1445.6425,,2017-03-04
+Director,IT,Research & Development,Female,Black,37.0,2009-09-20,167199.0,0.2,Seattle,,5845.0,41.4206151813319,1040.0286,,2012-07-26
+Director,IT,Research & Development,Female,Black,37.0,2009-09-20,167199.0,0.2,Seattle,,5845.0,41.4206151813319,1040.0286,,2012-07-26
+Sr. Manger,IT,Manufacturing,Female,Asian,25.0,2021-07-02,125633.0,0.11,Beijing,,1542.0,40.986922562096446,1300.47,,2025-01-22
+Sr. Manger,IT,Corporate,Female,Latino,55.0,2006-08-16,159044.0,0.1,Manaus,,6976.0,40.986922562096446,1523.7245,,2010-10-17
+Vice President,IT,Speciality Products,Female,Latino,43.0,2009-08-04,197699.43,0.2,Seattle,,5892.0,41.4206151813319,1414.2247,,2013-06-18
+Vice President,IT,Speciality Products,Female,Latino,43.0,2009-08-04,197699.43,0.2,Seattle,,5892.0,41.4206151813319,1414.2247,,2013-06-18
+Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32.0,2020-01-05,78844.0,0.0,Seattle,,2086.0,41.4206151813319,1678.9277,,2024-08-09
+Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32.0,2020-01-05,78844.0,0.0,Seattle,,2086.0,41.4206151813319,1678.9277,,2024-08-09
+Cloud Infrastructure Architect,IT,Speciality Products,Female,Asian,32.0,2020-01-05,78844.0,0.0,Seattle,,2086.0,41.4206151813319,1678.9277,,2024-08-09
+IT Coordinator,IT,Manufacturing,Male,Latino,36.0,2010-12-23,53215.0,0.0,Sao Paulo,2014-03-27,,40.986922562096446,1701.6495,1190.0,2015-08-20
+Computer Systems Manager,IT,Manufacturing,Male,Asian,40.0,2007-07-02,93971.0,0.08,Chongqing,,6656.0,40.53875461533017,1728.1287,,2012-03-25
+Cloud Infrastructure Architect,IT,Corporate,Female,Latino,41.0,2009-04-28,69803.0,0.0,Manaus,,5990.0,40.986922562096446,1637.3296,,2013-10-21
+Network Architect,IT,Corporate,Female,Latino,48.0,2019-07-04,76588.0,0.0,Rio de Janerio,,2271.0,40.986922562096446,1820.2517,,2024-06-27
+Network Architect,IT,Corporate,Female,Latino,48.0,2019-07-04,76588.0,0.0,Rio de Janerio,,2271.0,40.986922562096446,1820.2517,,2024-06-27
+Network Engineer,IT,Manufacturing,Male,Caucasian,29.0,2018-12-10,84596.0,0.0,Miami,,2477.0,40.986922562096446,1696.4835,,2023-08-02
+Network Architect,IT,Manufacturing,Female,Latino,32.0,2021-10-05,88072.0,0.0,Sao Paulo,,1447.0,40.986922562096446,1675.0027,,2026-05-07
+Computer Systems Manager,IT,Research & Development,Male,Asian,28.0,2020-05-26,67925.0,0.08,Shanghai,,1944.0,40.986922562096446,1384.0156,,2024-03-10
+Computer Systems Manager,IT,Speciality Products,Female,Asian,48.0,2007-01-09,74546.0,0.09,Seattle,,6830.0,41.4206151813319,1583.7007,,2011-05-11
+Director,IT,Research & Development,Female,Asian,29.0,2020-08-09,161203.0,0.15,Chengdu,,1869.0,40.986922562096446,1168.8503,,2023-10-21
+Sr. Manger,IT,Manufacturing,Female,Asian,49.0,2006-04-18,134486.0,0.14,Austin,,7096.0,40.986922562096446,2034.0499,,2011-11-12
+Enterprise Architect,IT,Manufacturing,Female,Asian,55.0,2005-08-09,92771.0,0.0,Miami,,7348.0,40.986922562096446,1654.2726,,2010-02-18
+Cloud Infrastructure Architect,IT,Speciality Products,Male,Black,28.0,2019-03-06,90304.0,0.0,Chicago,,2391.0,39.7211457387391,1960.2942,,2024-07-17
+Systems Analyst,IT,Manufacturing,Female,Caucasian,63.0,1992-04-01,53809.0,0.0,Phoenix,,12226.0,40.986922562096446,1254.8364,,1995-09-07
+Sr. Manger,IT,Manufacturing,Male,Caucasian,37.0,,127225.005,0.10021875000000001,Unknown,2021-05-01,,40.986922562096446,1372.2462,,
+Enterprise Architect,IT,Manufacturing,Male,Caucasian,40.0,2011-01-22,97339.0,0.0,Austin,,5356.0,40.986922562096446,1454.6865,,2015-01-15
+Enterprise Architect,IT,Manufacturing,Male,Caucasian,40.0,2011-01-22,97339.0,0.0,Austin,,5356.0,40.986922562096446,1454.6865,,2015-01-15
+Network Engineer,IT,Speciality Products,Male,Asian,45.0,2005-09-18,67686.0,0.0,Beijing,,7308.0,40.986922562096446,1480.1288,,2009-10-07
+Technical Architect,IT,Research & Development,Male,Latino,51.0,2008-04-15,86431.0,0.0,Columbus,,6368.0,40.986922562096446,1752.4071,,2013-01-31
+Solutions Architect,IT,Research & Development,Male,Asian,54.0,2013-07-13,83639.0,0.0,Beijing,,4453.0,40.986922562096446,1790.6635,,2018-06-07
+Solutions Architect,IT,Research & Development,Male,Asian,54.0,2013-07-13,83639.0,0.0,Beijing,,4453.0,40.986922562096446,1790.6635,,2018-06-07
+Solutions Architect,IT,Research & Development,Male,Asian,54.0,2013-07-13,83639.0,0.0,Beijing,,4453.0,40.986922562096446,1790.6635,,2018-06-07
+Network Architect,IT,Research & Development,Female,Caucasian,54.0,1998-05-18,68268.0,0.0,Phoenix,,9988.0,40.986922562096446,1571.6455,,2002-09-05
+Enterprise Architect,IT,Manufacturing,Female,Unknown,43.475,,127225.005,0.10021875000000001,Miami,,,40.986922562096446,2088.2976,,
+Network Architect,IT,Speciality Products,Female,Unknown,43.475,,127225.005,0.10021875000000001,Phoenix,,,40.986922562096446,1986.6229,,
+Network Architect,IT,Manufacturing,Male,Asian,33.0,2020-07-24,69453.0,0.0,Chengdu,,1885.0,40.986922562096446,1761.6279,,2025-05-20
+Manager,IT,Corporate,Male,Caucasian,32.0,2014-01-03,127148.0,0.1,Miami,,4279.0,40.986922562096446,1552.2817,,2018-04-04
+Enterprise Architect,IT,Manufacturing,Male,Latino,47.0,1999-03-14,92897.0,0.0,Sao Paulo,,9688.0,40.986922562096446,1726.6781,,2003-12-04
+Technical Architect,IT,Research & Development,Male,Asian,46.0,2021-10-26,94790.0,0.0,Chongqing,,1426.0,40.53875461533017,1710.31,,2026-07-02
+Manager,IT,Speciality Products,Male,Latino,53.0,2006-10-31,120128.0,0.1,Austin,,6900.0,40.986922562096446,1630.9495,,2011-04-18
+IT Coordinator,IT,Manufacturing,Female,Caucasian,54.0,2016-12-27,51421.73,0.0,Miami,,3190.0,40.986922562096446,1948.8542,,2022-04-28
+Network Engineer,IT,Manufacturing,Female,Asian,50.0,2001-01-23,97537.0,0.0,Chengdu,,9007.0,40.986922562096446,1421.6948,,2004-12-14
+IT Systems Architect,IT,Research & Development,Male,Asian,31.0,2020-09-12,96567.0,0.0,Shanghai,,1835.0,40.986922562096446,1591.8993,,2025-01-20
+Systems Analyst,IT,Speciality Products,Male,Asian,47.0,1999-03-10,51421.73,0.0,Beijing,,9692.0,40.986922562096446,1891.2872,,2004-05-13
+Systems Analyst,IT,Speciality Products,Male,Asian,47.0,1999-03-10,51421.73,0.0,Beijing,,9692.0,40.986922562096446,1891.2872,,2004-05-13
+IT Systems Architect,IT,Research & Development,Male,Latino,29.0,2019-10-15,66819.0,0.0,Rio de Janerio,,2168.0,40.986922562096446,1706.519,,2024-06-16
+Service Desk Analyst,IT,Manufacturing,Male,Black,54.0,2010-12-28,64417.0,0.0,Columbus,,5381.0,40.986922562096446,1803.8584,,2015-12-05
+Service Desk Analyst,IT,Manufacturing,Female,Latino,36.0,2019-12-19,91954.0,0.0,Columbus,,2103.0,40.986922562096446,1740.0173,,2024-09-23
+System Administrator ,IT,Manufacturing,Male,Latino,29.0,2017-05-11,87536.0,0.0,Seattle,,3055.0,41.4206151813319,1562.3864,,2021-08-20
+Network Administrator,IT,Corporate,Male,Caucasian,58.0,1993-07-26,69260.0,0.0,Abu Dhabi,,11745.0,40.986922562096446,1299.4471,,1997-02-14
+Manager,IT,Corporate,Male,Asian,51.0,1994-02-23,122802.0,0.05,Shanghai,,11533.0,40.986922562096446,1425.2792,,1998-01-18
+Service Desk Analyst,IT,Manufacturing,Female,Asian,48.0,2003-08-22,82017.0,0.0,Beijing,,8066.0,40.986922562096446,2330.8828,,2010-01-07
+Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,36.0,2014-05-30,99080.0,0.0,Chicago,,4132.0,39.7211457387391,1850.4176,,2019-06-23
+Vice President,IT,Corporate,Female,Asian,53.0,2008-04-30,182202.0,0.2,Austin,,6353.0,40.986922562096446,2059.1309,,2013-12-19
+Enterprise Architect,IT,Corporate,Female,Black,39.0,2018-05-09,73317.0,0.0,Miami,,2692.0,40.986922562096446,1641.364,,2022-11-05
+Service Desk Analyst,IT,Speciality Products,Female,Asian,40.0,2013-06-26,69096.0,0.0,Seattle,,4470.0,41.4206151813319,1686.2231,,2018-02-06
+Systems Analyst,IT,Research & Development,Male,Asian,43.0,2018-05-04,59888.0,0.0,Beijing,,2697.0,40.986922562096446,2372.734,,2024-10-31
+Director,IT,Speciality Products,Female,Asian,47.0,2012-10-26,183156.0,0.2,Seattle,,4713.0,41.4206151813319,1757.0254,,2017-08-18
+Vice President,IT,Speciality Products,Female,Latino,32.0,2020-07-22,192749.0,0.2,Chicago,,1887.0,39.7211457387391,1500.5084,,2024-08-30
+Sr. Manger,IT,Manufacturing,Female,Asian,39.0,2017-03-25,135325.0,0.14,Phoenix,,3102.0,40.986922562096446,1832.5287,,2022-03-31
+Computer Systems Manager,IT,Manufacturing,Female,Latino,32.0,2017-10-02,61886.0,0.09,Rio de Janerio,,2911.0,40.986922562096446,1891.6593,,2022-12-06
+Computer Systems Manager,IT,Manufacturing,Female,Latino,32.0,2017-10-02,61886.0,0.09,Rio de Janerio,,2911.0,40.986922562096446,1891.6593,,2022-12-06
+Systems Analyst,IT,Manufacturing,Female,Asian,34.0,2016-05-22,51421.73,0.0,Miami,,3409.0,40.986922562096446,1882.9158,,2021-07-17
+Systems Analyst,IT,Manufacturing,Female,Asian,34.0,2016-05-22,51421.73,0.0,Miami,,3409.0,40.986922562096446,1882.9158,,2021-07-17
+Vice President,IT,Research & Development,Male,Asian,40.0,2020-11-08,197699.43,0.2,Chengdu,,1778.0,40.986922562096446,815.2764,,2023-02-01
+Technical Architect,IT,Manufacturing,Female,Asian,58.0,2005-06-18,86089.0,0.0,Chicago,,7400.0,39.7211457387391,1674.4099,,2010-01-17
+IT Systems Architect,IT,Corporate,Female,Asian,45.0,2010-08-28,82162.0,0.0,Beijing,2020-10-03,,40.986922562096446,1947.5829,3689.0,2015-12-27
+IT Systems Architect,IT,Corporate,Female,Asian,45.0,2010-08-28,82162.0,0.0,Beijing,2020-10-03,,40.986922562096446,1947.5829,3689.0,2015-12-27
+Solutions Architect,IT,Corporate,Female,Caucasian,40.0,2010-12-10,97807.0,0.0,Chicago,,5399.0,39.7211457387391,1544.2899,,2015-03-03
+Network Architect,IT,Speciality Products,Male,Black,46.0,2005-06-10,67374.0,0.0,Austin,,7408.0,40.986922562096446,1592.4979,,2009-10-19
+Vice President,IT,Research & Development,Male,Asian,31.0,2015-07-12,197699.43,0.2,Miami,,3724.0,40.986922562096446,801.5422,,2017-09-20
+Vice President,IT,Research & Development,Male,Asian,31.0,2015-07-12,197699.43,0.2,Miami,,3724.0,40.986922562096446,801.5422,,2017-09-20
+Computer Systems Manager,IT,Speciality Products,Female,Black,45.0,2018-03-26,86478.0,0.06,Austin,,2736.0,40.986922562096446,1529.0753,,2022-06-02
+Systems Analyst,IT,Research & Development,Female,Asian,28.0,2019-10-25,51421.73,0.0,Chengdu,,2158.0,40.986922562096446,1472.4777,,2023-11-05
+Network Administrator,IT,Manufacturing,Male,Black,31.0,2016-05-07,71192.0,0.0,Austin,,3424.0,40.986922562096446,1452.3519,,2020-04-28
+Network Architect,IT,Manufacturing,Male,Caucasian,54.0,1994-10-24,87216.0,0.0,Miami,,11290.0,40.986922562096446,1612.8843,,1999-03-24
+Systems Analyst,IT,Corporate,Male,Caucasian,47.0,2020-04-23,51421.73,0.0,Seattle,,1977.0,41.4206151813319,1856.936,,2025-05-23
+Director,IT,Speciality Products,Female,Caucasian,26.0,2021-07-26,151108.0,0.2,Phoenix,,1518.0,40.986922562096446,904.8105,,2024-01-16
+Computer Systems Manager,IT,Manufacturing,Female,Asian,42.0,2005-10-15,67398.0,0.07,Phoenix,,7281.0,40.986922562096446,1766.6738,,2010-08-16
+Computer Systems Manager,IT,Manufacturing,Female,Asian,42.0,2005-10-15,67398.0,0.07,Phoenix,,7281.0,40.986922562096446,1766.6738,,2010-08-16
+Service Desk Analyst,IT,Speciality Products,Male,Asian,31.0,2017-02-14,95963.0,0.0,Chengdu,,3141.0,40.986922562096446,1635.2479,,2021-08-07
+Vice President,IT,Corporate,Female,Caucasian,48.0,2015-02-18,194871.0,0.2,Columbus,,3868.0,40.986922562096446,1865.2515,,2020-03-28
+Vice President,IT,Corporate,Female,Caucasian,48.0,2015-02-18,194871.0,0.2,Columbus,,3868.0,40.986922562096446,1865.2515,,2020-03-28
+Technical Architect,IT,Manufacturing,Female,Latino,25.0,2021-05-11,83934.0,0.0,Miami,,1594.0,40.986922562096446,1770.4338,,2026-03-16
+Service Desk Analyst,IT,Manufacturing,Female,Asian,30.0,2019-03-29,86774.0,0.0,Chengdu,,2368.0,40.986922562096446,2054.614,,2024-11-11
+Service Desk Analyst,IT,Manufacturing,Female,Asian,30.0,2019-03-29,86774.0,0.0,Chengdu,,2368.0,40.986922562096446,2054.614,,2024-11-11
+System Administrator ,IT,Research & Development,Female,Asian,51.0,2012-02-25,64170.0,0.0,Columbus,,4957.0,40.986922562096446,2030.787,,2017-09-16
+Enterprise Architect,IT,Corporate,Female,Asian,45.0,2013-08-25,99169.0,0.0,Beijing,,4410.0,40.986922562096446,1714.335,,2018-05-05
+Network Architect,IT,Manufacturing,Female,Caucasian,65.0,2018-05-14,60985.0,0.0,Seattle,,2687.0,41.4206151813319,1257.4324,,2021-10-22
+Network Architect,IT,Manufacturing,Female,Caucasian,65.0,2018-05-14,60985.0,0.0,Seattle,,2687.0,41.4206151813319,1257.4324,,2021-10-22
+Sr. Manger,IT,Research & Development,Female,Asian,60.0,2010-07-24,126911.0,0.1,Shanghai,,5538.0,40.986922562096446,1867.4869,,2015-09-03
+Enterprise Architect,IT,Research & Development,Male,Caucasian,62.0,2001-04-15,80921.0,0.0,Columbus,,8925.0,40.986922562096446,1201.479,,2004-07-29
+Network Architect,IT,Speciality Products,Female,Caucasian,59.0,2017-10-20,86831.0,0.0,Phoenix,,2893.0,40.986922562096446,1406.7996,,2021-08-26
+Technical Architect,IT,Speciality Products,Female,Asian,49.0,2010-09-10,72826.0,0.0,Beijing,,5490.0,40.986922562096446,1788.8779,,2015-08-03
+Manager,IT,Research & Development,Female,Caucasian,57.0,2020-04-27,103058.0,0.07,Columbus,,1973.0,40.986922562096446,2002.7302,,2025-10-20
+Sr. Manger,IT,Research & Development,Female,Latino,49.0,2004-01-14,125086.0,0.1,Sao Paulo,,7921.0,40.986922562096446,1803.1472,,2008-12-21
+System Administrator ,IT,Speciality Products,Male,Caucasian,43.0,2016-04-07,67976.0,0.0,Seattle,,3454.0,41.4206151813319,1558.9689,,2020-07-13
+Systems Analyst,IT,Manufacturing,Male,Asian,40.0,2007-07-30,51421.73,0.0,Seattle,,6628.0,41.4206151813319,2227.9302,,2013-09-03
+IT Coordinator,IT,Manufacturing,Male,Black,42.0,2006-09-24,52733.0,0.0,Chicago,,6937.0,39.7211457387391,2077.925,,2012-06-01
+Technical Architect,IT,Speciality Products,Male,Asian,42.0,2014-06-23,64677.0,0.0,Chongqing,,4108.0,40.53875461533017,2332.3564,,2020-11-10
+Sr. Manger,IT,Corporate,Male,Caucasian,46.0,2004-09-14,130274.0,0.11,Chicago,,7677.0,39.7211457387391,1665.4364,,2009-04-06
+Sr. Manger,IT,Corporate,Male,Caucasian,46.0,2004-09-14,130274.0,0.11,Chicago,,7677.0,39.7211457387391,1665.4364,,2009-04-06
+Network Architect,IT,Research & Development,Male,Asian,37.0,2017-07-06,96331.0,0.0,Shanghai,,2999.0,40.986922562096446,1559.7023,,2021-10-12
+Solutions Architect,IT,Corporate,Male,Black,55.0,1998-05-04,62174.0,0.0,Chicago,,10002.0,39.7211457387391,1643.096,,2002-11-02
+System Administrator ,IT,Corporate,Male,Caucasian,48.0,2003-08-11,93017.0,0.0,Seattle,,8077.0,41.4206151813319,1595.5144,,2007-12-23
+IT Systems Architect,IT,Manufacturing,Female,Caucasian,55.0,2011-11-21,81218.0,0.0,Chicago,,5053.0,39.7211457387391,1489.0723,,2015-12-19
+Solutions Architect,IT,Manufacturing,Female,Caucasian,28.0,2018-01-22,68176.0,0.0,Seattle,,2799.0,41.4206151813319,1331.6063,,2021-09-14
+IT Coordinator,IT,Speciality Products,Female,Asian,39.0,2020-11-18,51421.73,0.0,Shanghai,,1768.0,40.986922562096446,2207.612,,2026-12-04
+Cloud Infrastructure Architect,IT,Corporate,Female,Caucasian,42.0,2020-02-05,96636.0,0.0,Columbus,,2055.0,40.986922562096446,2055.8472,,2025-09-21
+System Administrator ,IT,Manufacturing,Female,Black,35.0,2014-10-29,91592.0,0.0,Chicago,,3980.0,39.7211457387391,1656.8856,,2019-05-12
+Director,IT,Research & Development,Female,Asian,52.0,1996-02-14,159724.0,0.2,Beijing,,10812.0,40.986922562096446,1679.5605,,2000-09-19
+Computer Systems Manager,IT,Speciality Products,Male,Asian,53.0,2008-02-09,84193.0,0.09,Shanghai,,6434.0,40.986922562096446,1632.1682,,2012-07-29
+Network Administrator,IT,Manufacturing,Female,Caucasian,47.0,2018-07-28,87806.0,0.0,Seattle,,2612.0,41.4206151813319,1971.7236,,2023-12-20
+Vice President,IT,Research & Development,Male,Asian,35.0,2015-06-11,197699.43,0.2,Shanghai,,3755.0,40.986922562096446,912.87897,,2017-12-09
+Vice President,IT,Research & Development,Male,Asian,35.0,2015-06-11,197699.43,0.2,Shanghai,,3755.0,40.986922562096446,912.87897,,2017-12-09
+Cloud Infrastructure Architect,IT,Corporate,Female,Asian,53.0,2011-07-20,86173.0,0.0,Chongqing,,5177.0,40.53875461533017,1850.6334,,2016-08-12
+Computer Systems Manager,IT,Research & Development,Female,Caucasian,42.0,2006-03-01,97433.0,0.05,Seattle,2015-08-08,,41.4206151813319,1497.8595,3447.0,2010-04-06
+Computer Systems Manager,IT,Research & Development,Female,Caucasian,42.0,2006-03-01,97433.0,0.05,Seattle,2015-08-08,,41.4206151813319,1497.8595,3447.0,2010-04-06
+Network Administrator,IT,Corporate,Male,Black,54.0,2000-04-01,76352.0,0.0,Austin,,9304.0,40.986922562096446,1407.669,,2004-02-07
+Technical Architect,IT,Speciality Products,Female,Caucasian,59.0,2010-04-04,76027.0,0.0,Seattle,,5649.0,41.4206151813319,1494.3456,,2014-05-07
+Computer Systems Manager,IT,Corporate,Male,Black,31.0,2016-10-13,63744.0,0.08,Austin,,3265.0,40.986922562096446,2274.4236,,2023-01-04
+Network Administrator,IT,Research & Development,Male,Asian,45.0,2010-02-26,90770.0,0.0,Columbus,,5686.0,40.986922562096446,1715.0663,,2014-11-07
+Technical Architect,IT,Research & Development,Male,Asian,37.0,2016-02-05,80055.0,0.0,Beijing,,3516.0,40.986922562096446,1760.173,,2020-11-30
+Vice President,IT,Corporate,Male,Caucasian,38.0,2016-06-22,197699.43,0.2,Chicago,,3378.0,39.7211457387391,1002.5676,,2019-03-21
+Vice President,IT,Corporate,Male,Caucasian,38.0,2016-06-22,197699.43,0.2,Chicago,,3378.0,39.7211457387391,1002.5676,,2019-03-21
+Service Desk Analyst,IT,Corporate,Female,Asian,60.0,2004-02-10,90258.0,0.0,Chongqing,,7894.0,40.53875461533017,1484.2979,,2008-03-04
+System Administrator ,IT,Manufacturing,Female,Black,42.0,2011-02-19,72486.0,0.0,Seattle,,5328.0,41.4206151813319,1796.8293,,2016-01-20
+Computer Systems Manager,IT,Manufacturing,Male,Latino,60.0,1998-08-03,85120.0,0.09,Seattle,,9911.0,41.4206151813319,1513.3175,,2002-09-24
+Computer Systems Manager,IT,Manufacturing,Male,Latino,60.0,1998-08-03,85120.0,0.09,Seattle,,9911.0,41.4206151813319,1513.3175,,2002-09-24
+Enterprise Architect,IT,Manufacturing,Female,Latino,53.0,2004-07-20,65702.0,0.0,Columbus,,7733.0,40.986922562096446,2012.8333,,2010-01-22
+Manager,IT,Research & Development,Male,Caucasian,46.0,2021-08-11,127559.0,0.1,Austin,,1502.0,40.986922562096446,1763.5197,,2026-06-09
+Network Architect,IT,Manufacturing,Male,Asian,50.0,2001-03-06,73907.0,0.0,Shanghai,,8965.0,40.986922562096446,1427.0608,,2005-01-31
+System Administrator ,IT,Corporate,Male,Black,28.0,2019-06-17,65341.0,0.0,Miami,2022-04-11,,40.986922562096446,1949.2493,1029.0,2024-10-17
+IT Coordinator,IT,Research & Development,Male,Caucasian,45.0,2018-05-28,51421.73,0.0,Columbus,,2673.0,40.986922562096446,1845.8376,,2023-06-16
+Solutions Architect,IT,Speciality Products,Male,Latino,57.0,2014-07-10,66649.0,0.0,Rio de Janerio,,4091.0,40.986922562096446,1981.3268,,2019-12-12
+Vice President,IT,Manufacturing,Male,Caucasian,56.0,2006-05-29,197699.43,0.2,Miami,,7055.0,40.986922562096446,1824.2341,,2011-05-27
+Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28.0,2020-08-08,73255.0,0.09,Abu Dhabi,,1870.0,40.986922562096446,743.138,,2022-08-21
+Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28.0,2020-08-08,73255.0,0.09,Abu Dhabi,,1870.0,40.986922562096446,743.138,,2022-08-21
+Computer Systems Manager,IT,Manufacturing,Male,Caucasian,28.0,2020-08-08,73255.0,0.09,Abu Dhabi,,1870.0,40.986922562096446,743.138,,2022-08-21
+Solutions Architect,IT,Speciality Products,Male,Caucasian,34.0,2016-05-24,94352.0,0.0,Miami,,3407.0,40.986922562096446,1239.2614,,2019-10-15
+IT Systems Architect,IT,Research & Development,Female,Latino,55.0,1994-08-30,73955.0,0.0,Phoenix,,11345.0,40.986922562096446,1539.0856,,1998-11-16
+Network Administrator,IT,Manufacturing,Male,Asian,27.0,2020-12-24,92321.0,0.0,Chicago,,1732.0,39.7211457387391,1674.6407,,2025-07-25
+Computer Systems Manager,IT,Research & Development,Male,Caucasian,52.0,2013-05-23,99557.0,0.09,Seattle,,4504.0,41.4206151813319,1296.593,,2016-12-09
+Computer Systems Manager,IT,Research & Development,Male,Caucasian,52.0,2013-05-23,99557.0,0.09,Seattle,,4504.0,41.4206151813319,1296.593,,2016-12-09
+IT Systems Architect,IT,Manufacturing,Female,Latino,44.0,2011-03-01,82462.0,0.0,Austin,,5318.0,40.986922562096446,1872.899,,2016-04-15
+Vice President,IT,Research & Development,Female,Caucasian,53.0,2011-11-09,197699.43,0.2,Miami,,5065.0,40.986922562096446,1627.6227,,2016-04-23
+Cloud Infrastructure Architect,IT,Corporate,Male,Asian,55.0,1994-12-24,99774.0,0.0,Austin,,11229.0,40.986922562096446,1376.0848,,1998-09-30
+Director,IT,Research & Development,Male,Asian,55.0,2007-03-13,184648.0,0.2,Shanghai,,6767.0,40.986922562096446,1332.1576,,2010-11-04
+Vice President,IT,Manufacturing,Male,Latino,51.0,2001-07-19,197699.43,0.2,Manaus,,8830.0,40.986922562096446,1530.305,,2005-09-26
+IT Systems Architect,IT,Corporate,Male,Latino,49.0,2016-06-24,68426.0,0.0,Rio de Janerio,,3376.0,40.986922562096446,1585.45,,2020-10-26
+IT Systems Architect,IT,Corporate,Male,Latino,49.0,2016-06-24,68426.0,0.0,Rio de Janerio,,3376.0,40.986922562096446,1585.45,,2020-10-26
+Solutions Architect,IT,Corporate,Female,Latino,59.0,2014-03-19,90901.0,0.0,Seattle,,4204.0,41.4206151813319,1526.4171,,2018-05-23
+Solutions Architect,IT,Corporate,Female,Latino,59.0,2014-03-19,90901.0,0.0,Seattle,,4204.0,41.4206151813319,1526.4171,,2018-05-23
+Computer Systems Manager,IT,Corporate,Male,Latino,36.0,2020-12-27,70165.0,0.07,Manaus,,1729.0,40.986922562096446,1273.1266,,2024-06-22
+Manager,IT,Corporate,Male,Asian,60.0,2000-01-29,109059.0,0.07,Chengdu,,9367.0,40.986922562096446,1535.6644,,2004-04-12
+Service Desk Analyst,IT,Manufacturing,Male,Caucasian,55.0,2013-10-18,70334.0,0.0,Miami,,4356.0,40.986922562096446,1450.8518,,2017-10-07
+Director,IT,Manufacturing,Female,Latino,28.0,2021-01-25,160385.0,0.2,Miami,2021-05-18,,40.986922562096446,1441.4993,113.0,2025-01-05
+Vice President,IT,Manufacturing,Male,Asian,37.0,2011-06-25,197699.43,0.2,Columbus,,5202.0,40.986922562096446,840.71564,,2013-10-12
+Cloud Infrastructure Architect,IT,Corporate,Male,Asian,45.0,2000-03-02,91276.0,0.0,Seattle,,9334.0,41.4206151813319,1679.5421,,2004-10-06
+Vice President,IT,Research & Development,Male,Asian,26.0,2020-05-09,197699.43,0.2,Austin,,1961.0,40.986922562096446,1106.519,,2023-05-20
+Solutions Architect,IT,Speciality Products,Female,Latino,45.0,2020-04-16,66958.0,0.0,Miami,,1984.0,40.986922562096446,1585.2878,,2024-08-18
+Technical Architect,IT,Corporate,Male,Caucasian,37.0,2008-02-15,71695.0,0.0,Abu Dhabi,,6428.0,40.986922562096446,1412.3087,,2011-12-28
+Technical Architect,IT,Corporate,Male,Caucasian,37.0,2008-02-15,71695.0,0.0,Abu Dhabi,,6428.0,40.986922562096446,1412.3087,,2011-12-28
+System Administrator ,IT,Speciality Products,Female,Asian,57.0,2014-01-10,74854.0,0.0,Seattle,,4272.0,41.4206151813319,1752.4935,,2018-10-28
+Systems Analyst,IT,Manufacturing,Female,Latino,53.0,2004-08-15,51421.73,0.0,Manaus,,7707.0,40.986922562096446,1902.191,,2009-10-30
+Solutions Architect,IT,Manufacturing,Male,Asian,43.0,2017-01-18,86417.0,0.0,Chicago,,3168.0,39.7211457387391,2163.3752,,2022-12-21
+Solutions Architect,IT,Manufacturing,Male,Asian,43.0,2017-01-18,86417.0,0.0,Chicago,,3168.0,39.7211457387391,2163.3752,,2022-12-21
+System Administrator ,IT,Research & Development,Female,Asian,65.0,2003-05-08,96548.0,0.0,Austin,,8172.0,40.986922562096446,1249.3049,,2006-10-08
+Vice President,IT,Speciality Products,Male,Latino,54.0,2009-08-15,197699.43,0.2,Columbus,,5881.0,40.986922562096446,1616.1532,,2014-01-17
+Computer Systems Manager,IT,Research & Development,Male,Black,40.0,2019-02-24,95899.0,0.1,Columbus,2021-03-08,,40.986922562096446,1654.8091,743.0,2023-09-05
+Technical Architect,IT,Corporate,Female,Asian,57.0,1992-05-04,76202.0,0.0,Austin,1994-12-18,,40.986922562096446,1742.4312,958.0,1997-02-09
+Cloud Infrastructure Architect,IT,Manufacturing,Female,Caucasian,30.0,2020-02-03,94652.0,0.0,Seattle,,2057.0,41.4206151813319,1639.8196,,2024-07-30
+Technical Architect,IT,Manufacturing,Male,Black,34.0,2016-02-16,63411.0,0.0,Miami,,3505.0,40.986922562096446,2058.7668,,2021-10-05
+Computer Systems Manager,IT,Research & Development,Male,Caucasian,26.0,2019-07-10,69110.0,0.05,Chicago,,2265.0,39.7211457387391,1072.4667,,2022-06-16
+System Administrator ,IT,Corporate,Male,Latino,40.0,2021-09-26,87770.0,0.0,Austin,,1456.0,40.986922562096446,1847.6058,,2026-10-17
+Director,IT,Manufacturing,Female,Asian,27.0,2018-01-03,167100.0,0.2,Chengdu,,2818.0,40.986922562096446,796.9712,,2020-03-09
+Technical Architect,IT,Corporate,Female,Caucasian,53.0,1997-04-23,78153.0,0.0,Miami,,10378.0,40.986922562096446,1339.5643,,2000-12-22
+Manager,IT,Corporate,Male,Caucasian,30.0,2017-08-05,119906.0,0.05,Columbus,,2969.0,40.986922562096446,1186.2767,,2020-11-03
+IT Systems Architect,IT,Corporate,Male,Asian,51.0,2003-01-17,91399.0,0.0,Seattle,,8283.0,41.4206151813319,1458.0627,,2007-01-14
+Enterprise Architect,IT,Research & Development,Male,Latino,28.0,2017-09-28,97336.0,0.0,Austin,,2915.0,40.986922562096446,1206.4475,,2021-01-16
+Solutions Architect,IT,Speciality Products,Female,Latino,43.0,2010-04-22,76912.0,0.0,Sao Paulo,,5631.0,40.986922562096446,1908.4799,,2015-07-13
+Vice President,IT,Speciality Products,Male,Black,59.0,2010-12-30,197699.43,0.2,Miami,,5379.0,40.986922562096446,1793.212,,2015-11-27
+Systems Analyst,IT,Corporate,Male,Caucasian,51.0,2014-02-27,53929.0,0.0,Miami,2017-12-22,,40.986922562096446,1900.7814,1394.0,2019-05-12
+Systems Analyst,IT,Corporate,Male,Caucasian,51.0,2014-02-27,53929.0,0.0,Miami,2017-12-22,,40.986922562096446,1900.7814,1394.0,2019-05-12
+Systems Analyst,IT,Corporate,Male,Caucasian,51.0,2014-02-27,53929.0,0.0,Miami,2017-12-22,,40.986922562096446,1900.7814,1394.0,2019-05-12
+IT Coordinator,IT,Speciality Products,Male,Caucasian,38.0,2015-04-19,51421.73,0.0,Seattle,,3808.0,41.4206151813319,1861.0509,,2020-05-23
+Enterprise Architect,IT,Research & Development,Female,Asian,36.0,2016-04-29,75862.0,0.0,Austin,,3432.0,40.986922562096446,1639.3015,,2020-10-24
+Solutions Architect,IT,Corporate,Male,Caucasian,54.0,1992-06-30,63196.0,0.0,Chicago,2014-10-26,,39.7211457387391,2111.6135,8153.0,1998-04-11
+Computer Systems Manager,IT,Manufacturing,Female,Latino,46.0,2017-04-24,77461.0,0.09,Sao Paulo,,3072.0,40.986922562096446,1579.012,,2021-08-20
+Systems Analyst,IT,Speciality Products,Male,Caucasian,48.0,2002-02-11,51421.73,0.0,Austin,,8623.0,40.986922562096446,1771.434,,2006-12-18
+Network Administrator,IT,Research & Development,Male,Caucasian,48.0,2006-09-27,76505.0,0.0,Seattle,2007-04-08,,41.4206151813319,1535.3672,193.0,2010-12-10
+Service Desk Analyst,IT,Corporate,Male,Latino,39.0,2016-10-21,84297.0,0.0,Manaus,,3257.0,40.986922562096446,2175.916,,2022-10-05
+Network Engineer,IT,Research & Development,Male,Latino,48.0,2005-07-27,68987.0,0.0,Chicago,2006-04-22,,39.7211457387391,1659.5818,269.0,2010-02-10
+Network Engineer,IT,Research & Development,Male,Latino,48.0,2005-07-27,68987.0,0.0,Chicago,2006-04-22,,39.7211457387391,1659.5818,269.0,2010-02-10
+System Administrator ,IT,Corporate,Male,Asian,57.0,2003-06-26,63318.0,0.0,Columbus,,8123.0,40.986922562096446,2295.3848,,2009-10-07
+Enterprise Architect,IT,Research & Development,Female,Caucasian,49.0,2014-03-05,88777.0,0.0,Chicago,,4218.0,39.7211457387391,1784.141,,2019-01-22
+Sr. Manger,IT,Speciality Products,Female,Caucasian,43.0,2015-03-27,120321.0,0.12,Austin,,3831.0,40.986922562096446,1890.2103,,2020-05-29
+IT Coordinator,IT,Manufacturing,Female,Latino,61.0,2014-08-10,57446.0,0.0,Phoenix,,4060.0,40.986922562096446,1033.7421,,2017-06-08
+Enterprise Architect,IT,Manufacturing,Female,Asian,36.0,2014-11-21,97500.0,0.0,Miami,,3957.0,40.986922562096446,1620.2202,,2019-04-29
+IT Coordinator,IT,Manufacturing,Male,Asian,25.0,2021-01-17,51421.73,0.0,Chongqing,,1708.0,40.53875461533017,1726.9182,,2025-10-09
+IT Coordinator,IT,Manufacturing,Male,Asian,25.0,2021-01-17,51421.73,0.0,Chongqing,,1708.0,40.53875461533017,1726.9182,,2025-10-09
+IT Coordinator,IT,Speciality Products,male,Asian,61.0,2000-09-24,51421.73,0.0,Miami,,9128.0,40.986922562096446,1919.7649,,2005-12-26
+IT Coordinator,IT,Manufacturing,female,Caucasian,55.0,2004-04-30,51421.73,0.0,Austin,,7814.0,40.986922562096446,1914.3188,,2009-07-27
+System Administrator ,IT,Corporate,male,Asian,54.0,1998-06-15,95239.0,0.0,Phoenix,,9960.0,40.986922562096446,1562.4421,,2002-09-24
+Network Architect,IT,Manufacturing,Female,Asian,33.0,2014-06-29,96366.0,0.0,Chengdu,,4102.0,40.986922562096446,1865.0709,,2019-08-07
+Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48.0,2010-09-14,99335.0,0.0,Abu Dhabi,,5486.0,40.986922562096446,1397.7784,,2014-07-12
+Cloud Infrastructure Architect,IT,Research & Development,Male,Caucasian,48.0,2010-09-14,99335.0,0.0,Abu Dhabi,,5486.0,40.986922562096446,1397.7784,,2014-07-12
+Computer Systems Manager,IT,Speciality Products,Male,Asian,35.0,2016-05-03,73899.0,0.05,Chengdu,,3428.0,40.986922562096446,1394.8751,,2020-02-26
+Technical Architect,IT,Speciality Products,Female,Asian,56.0,1996-06-22,82806.0,0.0,Seattle,,10683.0,41.4206151813319,1771.5089,,2001-04-28
+Technical Architect,IT,Speciality Products,Female,Asian,56.0,1996-06-22,82806.0,0.0,Seattle,,10683.0,41.4206151813319,1771.5089,,2001-04-28
+Network Architect,IT,Manufacturing,Male,Caucasian,41.0,2017-10-05,67468.0,0.0,Miami,,2908.0,40.986922562096446,1669.691,,2022-05-01
+Network Engineer,IT,Corporate,Female,Asian,29.0,2017-11-09,63985.0,0.0,Miami,,2873.0,40.986922562096446,2292.694,,2024-02-18
+Network Engineer,IT,Corporate,Female,Asian,29.0,2017-11-09,63985.0,0.0,Miami,,2873.0,40.986922562096446,2292.694,,2024-02-18
+Network Engineer,IT,Corporate,Female,Asian,29.0,2017-11-09,63985.0,0.0,Miami,,2873.0,40.986922562096446,2292.694,,2024-02-18
+Solutions Architect,IT,Manufacturing,Female,Caucasian,64.0,2004-07-08,77903.0,0.0,Seattle,,7745.0,41.4206151813319,1269.8851,,2007-12-29
+IT Systems Architect,IT,Corporate,Male,Asian,29.0,2021-06-28,71234.0,0.0,Seattle,,1546.0,41.4206151813319,1467.6163,,2025-07-04
+Systems Analyst,IT,Research & Development,Male,Latino,64.0,2020-06-27,51421.73,0.0,Manaus,,1912.0,40.986922562096446,1658.0997,,2025-01-10
+Manager,IT,Research & Development,Female,Asian,55.0,2005-02-08,115145.0,0.05,Chongqing,,7530.0,40.53875461533017,1383.1505,,2008-11-22
+Cloud Infrastructure Architect,IT,Manufacturing,Female,Latino,43.0,2009-03-13,62335.0,0.0,Manaus,,6036.0,40.986922562096446,2210.9868,,2015-04-01
+Technical Architect,IT,Manufacturing,Female,Asian,45.0,2002-07-08,92655.0,0.0,Chengdu,,8476.0,40.986922562096446,1876.1776,,2007-08-27
+Technical Architect,IT,Manufacturing,Female,Asian,45.0,2002-07-08,92655.0,0.0,Chengdu,,8476.0,40.986922562096446,1876.1776,,2007-08-27
+Enterprise Architect,IT,Speciality Products,Female,Caucasian,61.0,2005-02-09,64462.0,0.0,Chicago,,7529.0,39.7211457387391,1537.8331,,2009-04-26
+System Administrator ,IT,Manufacturing,Female,Caucasian,57.0,1996-02-18,75354.0,0.0,Austin,1996-12-14,,40.986922562096446,1675.3583,300.0,2000-09-19
+Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,50.0,2021-09-06,83418.0,0.0,Shanghai,,1476.0,40.986922562096446,1975.2943,,2027-02-02
+Solutions Architect,IT,Speciality Products,Female,Caucasian,45.0,2017-11-03,66660.0,0.0,Austin,,2879.0,40.986922562096446,1745.531,,2022-08-14
+Solutions Architect,IT,Speciality Products,Female,Caucasian,45.0,2017-11-03,66660.0,0.0,Austin,,2879.0,40.986922562096446,1745.531,,2022-08-14
+Vice President,IT,Research & Development,Male,Latino,42.0,2010-11-29,186725.0,0.2,Manaus,,5410.0,40.986922562096446,1277.5676,,2014-05-29
+Network Architect,IT,Speciality Products,Female,Asian,45.0,2006-12-18,68337.0,0.0,Chongqing,,6852.0,40.53875461533017,1635.8365,,2011-06-10
+Network Architect,IT,Speciality Products,Female,Asian,45.0,2006-12-18,68337.0,0.0,Chongqing,,6852.0,40.53875461533017,1635.8365,,2011-06-10
+IT Systems Architect,IT,Speciality Products,Female,Caucasian,26.0,2021-03-11,74170.0,0.0,Austin,,1655.0,40.986922562096446,1366.3702,,2024-12-06
+Manager,IT,Speciality Products,Female,Caucasian,51.0,2020-03-13,107195.0,0.09,Austin,,2018.0,40.986922562096446,1835.8413,,2025-03-22
+Service Desk Analyst,IT,Manufacturing,Male,Asian,45.0,2010-03-16,88182.0,0.0,Chengdu,,5668.0,40.986922562096446,1934.7377,,2015-07-02
+Enterprise Architect,IT,Speciality Products,Male,Caucasian,61.0,2019-08-26,75780.0,0.0,Seattle,,2218.0,41.4206151813319,1311.448,,2023-03-29
+Cloud Infrastructure Architect,IT,Corporate,Male,Latino,30.0,2017-02-11,92058.0,0.0,Austin,,3144.0,40.986922562096446,1543.0726,,2021-05-04
+Network Architect,IT,Corporate,Male,Black,61.0,2004-01-27,88478.0,0.0,Austin,,7908.0,40.986922562096446,1406.1832,,2007-12-03
+Computer Systems Manager,IT,Speciality Products,Female,Asian,48.0,2014-04-20,91679.0,0.07,Chongqing,,4172.0,40.53875461533017,1701.58,,2018-12-16
+Network Engineer,IT,Manufacturing,Male,Asian,34.0,2018-11-10,61944.0,0.0,Shanghai,,2507.0,40.986922562096446,2389.9915,,2025-05-26
+Network Architect,IT,Speciality Products,Female,Latino,36.0,2021-01-21,90333.0,0.0,Rio de Janerio,,1704.0,40.986922562096446,1660.4514,,2025-08-08
+Systems Analyst,IT,Research & Development,Female,Caucasian,52.0,2005-02-23,51421.73,0.0,Chicago,,7515.0,39.7211457387391,1978.4899,,2010-07-25
+Network Administrator,IT,Manufacturing,Female,Caucasian,36.0,2010-08-23,61310.0,0.0,Phoenix,,5508.0,40.986922562096446,2159.7224,,2016-07-21
+System Administrator ,IT,Research & Development,Male,Asian,55.0,2016-11-09,87851.0,0.0,Chongqing,,3238.0,40.53875461533017,1654.2263,,2021-05-21
+System Administrator ,IT,Research & Development,Male,Asian,55.0,2016-11-09,87851.0,0.0,Chongqing,,3238.0,40.53875461533017,1654.2263,,2021-05-21
+Solutions Architect,IT,Speciality Products,Female,Asian,39.0,2020-04-22,90535.0,0.0,Miami,,1978.0,40.986922562096446,1975.1338,,2025-09-18
+Network Engineer,IT,Manufacturing,Male,Latino,26.0,2019-04-14,74467.0,0.0,Columbus,2021-01-15,,40.986922562096446,1074.1661,642.0,2022-03-23
+Cloud Infrastructure Architect,IT,Manufacturing,Female,Asian,33.0,2017-10-21,69332.0,0.0,Columbus,,2892.0,40.986922562096446,1858.1168,,2022-11-22
+Enterprise Architect,IT,Research & Development,Female,Caucasian,45.0,2009-04-05,64505.0,0.0,Miami,,6013.0,40.986922562096446,2072.5305,,2014-12-07
+Sr. Manger,IT,Manufacturing,Male,Asian,46.0,2017-12-16,136716.0,0.12,Austin,,2836.0,40.986922562096446,1724.0298,,2022-09-05
+Manager,IT,Manufacturing,Male,Asian,45.0,2015-01-22,101288.0,0.1,Abu Dhabi,,3895.0,40.986922562096446,1284.1597,,2018-07-29
+Cloud Infrastructure Architect,IT,Manufacturing,Female,Black,37.0,2016-04-27,91400.0,0.0,Chicago,,3434.0,39.7211457387391,1715.8002,,2021-01-06
+IT Systems Architect,IT,Speciality Products,Male,Asian,34.0,2019-09-20,94735.0,0.0,  Beijing  ,,2193.0,40.986922562096446,1499.9154,,2023-10-28
+Sr. Manger,IT,Speciality Products,Male,Latino,33.0,2012-12-24,132544.0,0.1,Rio de Janerio,,4654.0,40.986922562096446,2321.286,,2019-05-03
+Computer Systems Manager,IT,Speciality Products,Female,Asian,36.0,2014-11-29,88730.0,0.08,Chongqing,,3949.0,40.53875461533017,1725.7484,,2019-08-20
+Sr. Manger,IT,Manufacturing,Female,Asian,53.0,1997-04-12,154388.0,0.1,Seattle,,10389.0,41.4206151813319,1505.5508,,2001-05-26
+Solutions Architect,IT,Speciality Products,Male,Latino,55.0,1993-11-17,80170.0,0.0,Miami,,11631.0,40.986922562096446,1474.2361,,1997-11-30
+Network Architect,IT,Speciality Products,Female,Latino,36.0,2016-11-03,94618.0,0.0,Columbus,,3244.0,40.986922562096446,1708.0923,,2021-07-08
+Systems Analyst,IT,Speciality Products,Male,Latino,29.0,2016-05-19,52693.0,0.0,Rio de Janerio,,3412.0,40.986922562096446,2057.4297,,2022-01-05
+Network Administrator,IT,Research & Development,Female,Caucasian,58.0,2016-04-26,72045.0,0.0,Phoenix,,3435.0,40.986922562096446,1286.9347,,2019-11-03
+Network Architect,IT,Research & Development,Male,Caucasian,61.0,2016-03-08,96566.0,0.0,Columbus,,3484.0,40.986922562096446,1026.7334,,2018-12-29
+Systems Analyst,IT,Research & Development,Male,Latino,45.0,2001-08-23,54994.0,0.0,Columbus,,8795.0,40.986922562096446,1919.957,,2006-11-24
+Network Administrator,IT,Corporate,Female,Caucasian,40.0,2012-02-05,61523.0,0.0,Columbus,,4977.0,40.986922562096446,2211.3154,,2018-02-24
+IT Systems Architect,IT,Corporate,Male,Latino,48.0,2008-07-06,94815.0,0.0,Chicago,,6286.0,39.7211457387391,1739.7568,,2013-04-10
+IT Systems Architect,IT,Corporate,Male,Latino,48.0,2008-07-06,94815.0,0.0,Chicago,,6286.0,39.7211457387391,1739.7568,,2013-04-10
+Vice President,IT,Speciality Products,Female,Asian,57.0,2016-11-11,197699.43,0.2,Phoenix,2017-03-26,,40.986922562096446,2105.2793,135.0,2022-08-17
+Vice President,IT,Speciality Products,Female,Asian,57.0,2016-11-11,197699.43,0.2,Phoenix,2017-03-26,,40.986922562096446,2105.2793,135.0,2022-08-17
+Sr. Manger,IT,Research & Development,Female,Caucasian,46.0,2002-01-09,148035.0,0.14,Phoenix,,8656.0,40.986922562096446,2012.1819,,2007-07-14
+Sr. Manger,IT,Research & Development,male,Asian,37.0,2010-11-29,146961.0,0.11,Columbus,,5410.0,40.986922562096446,2122.0337,,2016-09-20
+Technical Architect,IT,Manufacturing,Male,Caucasian,30.0,2015-06-14,67489.0,0.0,Chicago,,3752.0,39.7211457387391,1338.9277,,2019-02-11
+Technical Architect,IT,Manufacturing,Male,Caucasian,30.0,2015-06-14,67489.0,0.0,Chicago,,3752.0,39.7211457387391,1338.9277,,2019-02-11
+Director,IT,Manufacturing,Female,Caucasian,46.0,2018-10-06,166259.0,0.17,Chicago,,2542.0,39.7211457387391,1206.6085,,2022-01-24
+Systems Analyst,IT,Corporate,Female,Asian,55.0,2009-01-07,51421.73,0.0,Columbus,,6101.0,40.986922562096446,2046.6046,,2014-08-15
+Analyst,IT,Unknown,Male,Unknown,43.475,,127225.005,0.10021875000000001,Unknown,,,40.986922562096446,2163.2952,,
+Analyst,IT,Unknown,Female,Unknown,43.475,,127225.005,0.10021875000000001,Unknown,,,40.986922562096446,2350.4128,,
